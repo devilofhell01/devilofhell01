@@ -12,12 +12,12 @@
 - 💬 Ask me about **PCB Designing,
 &nbsp;Embedded System,
 &nbsp;Microcontroller,
-&nbsp;</nbsp>Hardware System Design Engg. 
-&nbsp;Embedded Hardware 
-&nbsp;Control systems 
-&nbsp;Circuit Design 
-&nbsp;System Testing 
-&nbsp;Hardware Debugging 
+&nbsp;</nbsp>Hardware System Design Engg., 
+&nbsp;Embedded Hardware, 
+&nbsp;Control systems, 
+&nbsp;Circuit Design,
+&nbsp;System Testing,
+&nbsp;Hardware Debugging, 
 &nbsp;Wireless Communication **
 <br>
 - 📫 How to reach me **pratik9005285907@gmail.com**
