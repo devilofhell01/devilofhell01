@@ -10,14 +10,14 @@
 <br>
 - 👯 I’m looking to collaborate on **Electronics Engineer**
 <br>
-- 💬 Ask me about **PCB Designing,Embedded System,Microcontroller , Pcb design 
-Hardware System Design Engg. 
-Embedded Hardware 
-Control systems 
-Circuit Design 
-System Testing 
-Hardware Debugging 
-Wireless Communication **
+- 💬 Ask me about **PCB Designing,Embedded System,Microcontroller,
+&nbsp;</nbsp>Hardware System Design Engg. 
+&nbsp;Embedded Hardware 
+&nbsp;Control systems 
+&nbsp;Circuit Design 
+&nbsp;System Testing 
+&nbsp;Hardware Debugging 
+&nbsp;Wireless Communication **
 <br>
 - 📫 How to reach me **pratik9005285907@gmail.com**
 <br>
