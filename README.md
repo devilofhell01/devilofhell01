@@ -10,7 +10,9 @@
 <br>
 - 👯 I’m looking to collaborate on **Electronics Engineer**
 <br>
-- 💬 Ask me about **PCB Designing,Embedded System,Microcontroller,
+- 💬 Ask me about **PCB Designing,
+&nbsp;Embedded System,
+&nbsp;Microcontroller,
 &nbsp;</nbsp>Hardware System Design Engg. 
 &nbsp;Embedded Hardware 
 &nbsp;Control systems 
@@ -32,6 +34,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devilofhell01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></p>
 &nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devilofhell01&theme=vue-dark&hide_border=true" /></p>
-![devilofhell01's Stats](https://github-readme-stats.vercel.app/api?username=devilofhell01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![devilofhell01's Streak](![devilofhell01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devilofhell01&theme=vue-dark&hide_border=true))
+
 
