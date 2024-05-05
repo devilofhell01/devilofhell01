@@ -35,7 +35,7 @@ Wireless Communication **
 <br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mishrapawan-cse&show_icons=true&locale=en" alt="mishrapawan-cse" /></p>
+<p><img align="center" src="" /></p>
 &nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishrapawan-cse&" alt="mishrapawan-cse" /></p>
+<p><img align="center" src="" /></p>
 
