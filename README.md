@@ -28,10 +28,6 @@
 
 <a href="https://www.instagram.com/mishrapratik_02?igsh=ZTJwdDV0MTNrdWo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan1legend" height="30" width="40" /></a>
 </p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/engineersaab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/engineersaab" /></a></p><br>
 <br>
 <br>
 <br>
